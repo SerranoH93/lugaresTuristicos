@@ -8,7 +8,9 @@
         "codigo_postal": "11529",
         "ciudad": "Ciudad de México",
         "estado": "CDMX"
-    },
+    },    
+    "telefono": "+525511039800",
+    "sitio_web": "http://www.soumaya.com.mx/",
     "coordenadas": {
         "latitud": 19.44097120679634,
         "longitud": -99.20463749057276

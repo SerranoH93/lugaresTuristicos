@@ -1,4 +1,4 @@
-<MuseoSoumaya>
+<museo>
     <nombre>Museo Soumaya</nombre>
     <descripcion>Es una institución cultural sin fines de lucro fundada en 1994 que cuenta con tres recintos en la Ciudad de México: Plaza Loreto, Plaza Carso y la Casa Museo Guillermo Tovar de Teresa. Su labor principal es compartir la colección de Fundación Carlos Slim.</descripcion>
     <direccion>
@@ -9,6 +9,8 @@
         <ciudad>Ciudad de México</ciudad>
         <estado>CDMX</estado>
     </direccion>
+    <telefono>+525511039800</telefono>
+    <sitio_web>http://www.soumaya.com.mx/</sitio_web>
     <coordenadas>
         <latitud>19.44097120679634</latitud>
         <longitud>-99.20463749057276</longitud>
@@ -57,4 +59,4 @@
         <servicio>Wifi</servicio>
     </servicios_adicionales>
     <publico_objetivo>Para todas las edades</publico_objetivo>
-</MuseoSoumaya>
+</museo>
