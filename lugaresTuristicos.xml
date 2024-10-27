@@ -1,0 +1,60 @@
+<MuseoSoumaya>
+    <nombre>Museo Soumaya</nombre>
+    <descripcion>Es una institución cultural sin fines de lucro fundada en 1994 que cuenta con tres recintos en la Ciudad de México: Plaza Loreto, Plaza Carso y la Casa Museo Guillermo Tovar de Teresa. Su labor principal es compartir la colección de Fundación Carlos Slim.</descripcion>
+    <direccion>
+        <calle>Blvd. Miguel de Cervantes Saavedra</calle>
+        <numero>s/n</numero>
+        <alcaldia>Miguel Hidalgo</alcaldia>
+        <codigo_postal>11529</codigo_postal>
+        <ciudad>Ciudad de México</ciudad>
+        <estado>CDMX</estado>
+    </direccion>
+    <coordenadas>
+        <latitud>19.44097120679634</latitud>
+        <longitud>-99.20463749057276</longitud>
+    </coordenadas>
+    <horarios>
+        <lunes>
+            <hora_apertura>10:30</hora_apertura>
+            <hora_cierre>18:30</hora_cierre>
+        </lunes>
+        <martes>
+            <hora_apertura>10:30</hora_apertura>
+            <hora_cierre>18:30</hora_cierre>
+        </martes>
+        <miércoles>
+            <hora_apertura>10:30</hora_apertura>
+            <hora_cierre>18:30</hora_cierre>
+        </miércoles>
+        <jueves>
+            <hora_apertura>10:30</hora_apertura>
+            <hora_cierre>18:30</hora_cierre>
+        </jueves>
+        <viernes>
+            <hora_apertura>10:30</hora_apertura>
+            <hora_cierre>18:30</hora_cierre>
+        </viernes>
+        <sábado>
+            <hora_apertura>10:30</hora_apertura>
+            <hora_cierre>18:30</hora_cierre>
+        </sábado>
+        <domingo>
+            <hora_apertura>10:30</hora_apertura>
+            <hora_cierre>18:30</hora_cierre>
+        </domingo>
+    </horarios>
+    <precios>Entrada Libre</precios>
+    <servicios_adicionales>
+        <servicio>Accesibilidad</servicio>
+        <servicio>Audioguías</servicio>
+        <servicio>Auditorio</servicio>
+        <servicio>Baños</servicio>
+        <servicio>Espacio para bicicletas</servicio>
+        <servicio>Estacionamiento</servicio>
+        <servicio>Guardarropa</servicio>
+        <servicio>Tiendas</servicio>
+        <servicio>Visitas guiadas</servicio>
+        <servicio>Wifi</servicio>
+    </servicios_adicionales>
+    <publico_objetivo>Para todas las edades</publico_objetivo>
+</MuseoSoumaya>
